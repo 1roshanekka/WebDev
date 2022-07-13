@@ -1,0 +1,16 @@
+/* Cascading Style Sheets */
+
+html {
+    background: url(assets/main.jpg) no-repeat center fixed;
+    background-size: cover;
+  }
+div h1{
+    background-color: black;
+    color: white;
+    opacity: 50%;
+    alli
+}
+
+div h2{
+    background-color: brown;
+}
