@@ -1,16 +1,41 @@
 /* Cascading Style Sheets */
 
+/*
 html {
     background: url(assets/main.jpg) no-repeat center fixed;
     background-size: cover;
   }
-div h1{
-    background-color: black;
+*/
+
+
+html {
+    background-color: olivedrab;
+}
+
+
+/*The welcome message*/
+.intro{
     color: white;
-    opacity: 50%;
-    alli
+    text-align: center;
+    background-color: rgba(106, 90, 205, 90%)
 }
 
 div h2{
     background-color: brown;
+}
+
+.menu{
+    text-align: center;
+    border: 2px;
+    background-color: #58143F;
+}
+
+.thisclass{
+    color: white;
+    border: 2px solid tomato;
+    text-align: center;
+}
+
+.thatclass{
+    color: green;
 }
